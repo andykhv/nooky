@@ -1,5 +1,7 @@
 scraper written in Python 3
+
 database in MySQL
+
 REST API in Go
 
 Progress:
